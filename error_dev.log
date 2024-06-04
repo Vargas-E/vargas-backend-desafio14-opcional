@@ -1,0 +1,7 @@
+fatal: fatal logger example
+error: error logger example
+error: Error while adding product from cart. Layer:Controller, Router: Cart. Error: Error: Error mongo (get cart): Cart not found, Date: Wed May 22 2024 00:06:13 GMT-0300 (Argentina Standard Time)
+error: Error while rendering products page. Layer:Controller, Router: Views. Error: Error: Error mongo (get cart): Cart not found, Date: Wed May 22 2024 00:06:16 GMT-0300 (Argentina Standard Time)
+error: Error while rendering products page. Layer:Controller, Router: Views. Error: Error: Error mongo (get cart): Cart not found, Date: Wed May 22 2024 00:06:24 GMT-0300 (Argentina Standard Time)
+error: Error while rendering products page. Layer:Controller, Router: Views. Error: Error: Error mongo (get cart): Cart not found, Date: Wed May 22 2024 00:06:40 GMT-0300 (Argentina Standard Time)
+error: Error while getting product by id. Layer:Controller, Router: Products. Error: TypeError: req.logger.warn is not a function, Date: Tue May 28 2024 20:35:05 GMT-0300 (Argentina Standard Time)
